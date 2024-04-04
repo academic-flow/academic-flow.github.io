@@ -45,7 +45,7 @@ This page will showcase all available cards within the application. However, use
 ### Team
 
 Team member:
-* Phat Ca
-* Adam Winfield-Smith
-* Sean Fuji
-* Jakin Wade
+* [Phat Ca](https://github.com/PhatCa).
+* [Adam Winfield-Smith](https://github.com/adamwins).
+* [Sean Fuji](https://github.com/seanf2UH).
+* [Jakin Wade](https://github.com/JakinWade).
