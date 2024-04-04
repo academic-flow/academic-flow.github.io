@@ -22,21 +22,25 @@ The home/main page is what users will see right after they log in. There will be
 
 packages they currently have. Users will be able to open the package on this page and accept or deny the trading request
 
-![](images/landing-page.png)
+![](images/main.png)
 
 ### Your card collection
 
 This is where users can see what card they currently have. Listing out all the cards and they can click on it to view more information about the card
 
+![](images/card-list.png)
+
 ### Friend list page
 
 This page is designed for users to manage their friend list. By clicking on a friend's profile, users can view the cards owned by that friend and initiate trade requests directly from there. Additionally, users have the flexibility to add new friends or remove existing ones by simply entering their username.
 
+![](images/friend-list.png)
+
 ### Card Collection
 
-This page will showcase all available cards within the application. However, users will only gain access to card information for those they own, ensuring a
+This page will showcase all available cards within the application. However, users will only gain access to card information for those they own, ensuring a personalized and relevant browsing experience.
 
-personalized and relevant browsing experience.
+![](images/collections.png)
 
 ### Team
 
