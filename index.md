@@ -51,5 +51,5 @@ Team member:
 * [Jakin Wade](https://github.com/JakinWade).
 
 ### Project:
-* [Click Here]([https://www.meteor.com/](https://github.com/orgs/academic-flow/projects/1))
+* [Click Here]([https://github.com/orgs/academic-flow/projects/1])
 
