@@ -50,6 +50,6 @@ Team member:
 * [Sean Fuji](https://github.com/seanf2UH).
 * [Jakin Wade](https://github.com/JakinWade).
 
-### Project:
-* [Click Here](https://github.com/orgs/academic-flow/projects/1)
+### Project link:
+* https://github.com/orgs/academic-flow/projects/1
 
