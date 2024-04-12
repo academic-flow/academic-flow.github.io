@@ -16,6 +16,14 @@ Our project aims to incorporate the popularity of trading card games with our lo
 * Establish a trading hub for seamless exchanges between students
 * Empower professors to gift special cards as incentives for academic excellence
 
+
+### Landing Page
+
+Users will be routed to this page when they hit the URL
+
+![](images/landing-page-m1.png)
+
+
 ### Home/Main Page
 
 The home/main page is what users will see right after they log in. There will be information about pending requests for card trading, and the amount of card 
@@ -28,19 +36,18 @@ packages they currently have. Users will be able to open the package on this pag
 
 This is where users can see what card they currently have. Listing out all the cards and they can click on it to view more information about the card
 
-![](images/card-list.png)
+![](images/card-list-m1.png)
 
 ### Friend list page
 
 This page is designed for users to manage their friend list. By clicking on a friend's profile, users can view the cards owned by that friend and initiate trade requests directly from there. Additionally, users have the flexibility to add new friends or remove existing ones by simply entering their username.
 
-![](images/friend-list.png)
+![](images/friend-list-m1.png)
 
 ### Card Collection
 
 This page will showcase all available cards within the application. However, users will only gain access to card information for those they own, ensuring a personalized and relevant browsing experience.
 
-![](images/collections.png)
 
 ### Team
 
