@@ -51,5 +51,10 @@ Team member:
 * [Jakin Wade](https://github.com/JakinWade).
 
 ### Project link:
-* https://github.com/orgs/academic-flow/projects/1
+* [M1](https://github.com/orgs/academic-flow/projects/1).
+* [M2](https://github.com/orgs/academic-flow/projects/2/views/1).
+
+### Current live [link](165.232.147.67) for the project
+
+
 
