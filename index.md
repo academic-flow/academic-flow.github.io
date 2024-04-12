@@ -42,7 +42,7 @@ This is where users can see what card they currently have. Listing out all the c
 
 This page is designed for users to manage their friend list. By clicking on a friend's profile, users can view the cards owned by that friend and initiate trade requests directly from there. Additionally, users have the flexibility to add new friends or remove existing ones by simply entering their username.
 
-![](images/friend-list-m1.png)
+![](images/friend-list-page-m1.png)
 
 ### Card Collection
 
