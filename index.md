@@ -55,13 +55,6 @@ This page is designed for users to manage their friend list. By clicking on a fr
 
 ![](images/friends-list-m2.png)
 
-### Card Collection
-
-This page will showcase all available cards within the application. However, users will only gain access to card information for those they own, ensuring a personalized and relevant browsing experience.
-
-![](images/cardlist-m2.png)
-
-
 ### Viewing a friend's collection from their page
 
 This page showcases your friend's collection and also lets you send them an offer to trade for their card.
