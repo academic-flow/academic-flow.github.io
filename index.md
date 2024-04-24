@@ -47,7 +47,7 @@ packages they currently have. Users will be able to open the package on this pag
 
 This is where users can see what card they currently have. Listing out all the cards and they can click on it to view more information about the card
 
-![](images/card-collection-m2.png)
+![](images/Card-collection-m2.png)
 
 ### Friends list page
 
