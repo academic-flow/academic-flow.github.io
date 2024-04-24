@@ -16,52 +16,97 @@ Our project aims to incorporate the popularity of trading card games with our lo
 * Establish a trading hub for seamless exchanges between students
 * Empower professors to gift special cards as incentives for academic excellence
 
+## Developer Guide 
+
+* First, Install [Meteor](https://docs.meteor.com/install.html)
+* Second, Visit our [Repository](https://github.com/academic-flow/professor-trading-card) and create a copy
+* Next, change directories into the app directory by running 
+```$ cd app```
+* Now, install the necessary libraries by running `$ meteor npm install`
+* Lastly, run `$ meteor npm run start`
+* After this step, the site should be up and running at http://localhost:3000/
+
+
+## User Guide 
 
 ### Landing Page
 
 Users will be routed to this page when they hit the URL
 
-![](images/landing-page-m1.png)
+![](images/Landing-page.png)
 
 
 ### Home/Main Page
 
 The home/main page is what users will see right after they log in. There will be information about pending requests for card trading, and the amount of card 
-
 packages they currently have. Users will be able to open the package on this page and accept or deny the trading request
 
-![](images/main.png)
+![](images/Main-page-m2.png)
 
 ### Your card collection
 
 This is where users can see what card they currently have. Listing out all the cards and they can click on it to view more information about the card
 
-![](images/card-list-m1.png)
+![](images/card-collection-m2.png)
 
-### Friend list page
+### Friends list page
 
 This page is designed for users to manage their friend list. By clicking on a friend's profile, users can view the cards owned by that friend and initiate trade requests directly from there. Additionally, users have the flexibility to add new friends or remove existing ones by simply entering their username.
 
-![](images/friend-list-page-m1.png)
+![](images/friends-list-m2.png)
 
 ### Card Collection
 
 This page will showcase all available cards within the application. However, users will only gain access to card information for those they own, ensuring a personalized and relevant browsing experience.
 
+![](images/cardlist-m2.png)
+
+
+### Viewing a friend's collection from their page
+
+This page showcases your friend's collection and also lets you send them an offer to trade for their card.
+
+![](images/friend-collection.png)
+
+
+### Trade Model 
+
+Upon clicking trade while viewing your friend's collection, you will be shown your personal collection and can choose what you would like to offer for a trade.
+
+![](images/trade-model.png)
+
+### Sign In Page and Register
+
+These pages allow users to sign into their accounts as well as register for them. Admin roles are given through a key provided to professors which allow them admin privileges and the ability to create cards and add them to users collections.
+
+![](images/signIn-m2.png)
+![](images/register-m2.png)
+
+### Teacher Home Page 
+
+This page is only available to those with admin privileges and is what the teachers will see for their home page. 
+
+![](images/teacherHome-m2.png)
 
 ### Team
 
-Team member:
+Team members:
 * [Phat Ca](https://github.com/PhatCa).
 * [Adam Winfield-Smith](https://github.com/adamwins).
 * [Sean Fuji](https://github.com/seanf2UH).
 * [Jakin Wade](https://github.com/JakinWade).
 
-### Project link:
-* [M1](https://github.com/orgs/academic-flow/projects/1).
-* [M2](https://github.com/orgs/academic-flow/projects/2/views/1).
 
-### Current live [link](http://165.232.147.67/) for the project
+### Team Contract
+* [Team Contract](https://docs.google.com/document/d/1o3oGj5e-3O_IfiKCXOPnhXBYxJN3E94gTyHrWARorpg/edit?usp=sharing)
+
+
+### Project link:
+* [M1](https://github.com/orgs/academic-flow/projects/1)
+* [M2](https://github.com/orgs/academic-flow/projects/2/views/1)
+* [M3](https://github.com/orgs/academic-flow/projects/3/views/1)
+
+### Current live [link](https://proftcg.site/) for the project
 
 
 
