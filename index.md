@@ -27,8 +27,22 @@ Add friends through the add friend page and view others collections. Add your fr
 ### Open Packs
 Open your pack through the home page, click the present and if there are cards available to you, the cards will be added to your collection
 
-![]
+![](images/Pack_opening.png)
 
+After clicking the present, you can see the cards get added to your collection 
+
+![](images/collection_pack.png)
+
+
+### Trading 
+
+Most importantly, you can trade your cards with your friends. All requested trades will appear on the home page after you sign in and you can choose to accept or deny the trade. View your friends collection and offer your card for theirs.
+
+![](images/trade.png)
+
+Now, after offering up your card, when your friend logs in they will see this on their home page. 
+
+![](images/accept-deny.png)
 ## Developer Guide 
 
 * First, Install [Meteor](https://docs.meteor.com/install.html)
@@ -46,7 +60,7 @@ Open your pack through the home page, click the present and if there are cards a
 
 Users will be routed to this page when they hit the URL
 
-![](images/Landing-page.png)
+![](images/m3-main.png)
 
 
 ### Home/Main Page
@@ -54,32 +68,32 @@ Users will be routed to this page when they hit the URL
 The home/main page is what users will see right after they log in. There will be information about pending requests for card trading, and the amount of card 
 packages they currently have. Users will be able to open the package on this page and accept or deny the trading request
 
-![](images/Main-page-m2.png)
+![](images/m3-home.png)
 
 ### Your card collection
 
 This is where users can see what card they currently have. Listing out all the cards and they can click on it to view more information about the card
 
-![](images/Card-collection-m2.png)
+![](images/m3-collection.png)
 
 ### Friends list page
 
 This page is designed for users to manage their friend list. By clicking on a friend's profile, users can view the cards owned by that friend and initiate trade requests directly from there. Additionally, users have the flexibility to add new friends or remove existing ones by simply entering their username.
 
-![](images/friends-list-m2.png)
+![](images/m3-friend.png)
 
 ### Viewing a friend's collection from their page
 
 This page showcases your friend's collection and also lets you send them an offer to trade for their card.
 
-![](images/friend-collection.png)
+![](images/m3-fc.png)
 
 
 ### Trade Model 
 
 Upon clicking trade while viewing your friend's collection, you will be shown your personal collection and can choose what you would like to offer for a trade.
 
-![](images/trade-model.png)
+![](images/m3-trade.png)
 
 ### Sign In Page and Register
 
@@ -92,7 +106,10 @@ These pages allow users to sign into their accounts as well as register for them
 
 This page is only available to those with admin privileges and is what the teachers will see for their home page. 
 
-![](images/teacherHome-m2.png)
+![](images/m3-teacher.png)
+
+## Community Feedback 
+
 
 ### Team
 
@@ -112,7 +129,7 @@ Team members:
 * [M2](https://github.com/orgs/academic-flow/projects/2/views/1)
 * [M3](https://github.com/orgs/academic-flow/projects/3/views/1)
 
-### Current live [link](https://proftcg.site/) for the project
+### Current live [link](http://146.190.123.195/) for the project
 
 
 
