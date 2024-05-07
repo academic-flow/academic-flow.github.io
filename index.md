@@ -16,6 +16,19 @@ Our project aims to incorporate the popularity of trading card games with our lo
 * Establish a trading hub for seamless exchanges between students
 * Empower professors to gift special cards as incentives for academic excellence
 
+## User Guide 
+
+### Add friends
+Add friends through the add friend page and view others collections. Add your friend through their username and be able to offer trades with your friends.
+
+![](images/friend_list.png)
+
+
+### Open Packs
+Open your pack through the home page, click the present and if there are cards available to you, the cards will be added to your collection
+
+![]
+
 ## Developer Guide 
 
 * First, Install [Meteor](https://docs.meteor.com/install.html)
