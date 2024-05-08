@@ -43,18 +43,6 @@ Most importantly, you can trade your cards with your friends. All requested trad
 Now, after offering up your card, when your friend logs in they will see this on their home page. 
 
 ![](images/accept-deny.png)
-## Developer Guide 
-
-* First, Install [Meteor](https://docs.meteor.com/install.html)
-* Second, Visit our [Repository](https://github.com/academic-flow/professor-trading-card) and create a copy
-* Next, change directories into the app directory by running 
-```$ cd app```
-* Now, install the necessary libraries by running `$ meteor npm install`
-* Lastly, run `$ meteor npm run start`
-* After this step, the site should be up and running at http://localhost:3000/
-
-
-## User Guide 
 
 ### Landing Page
 
@@ -108,8 +96,39 @@ This page is only available to those with admin privileges and is what the teach
 
 ![](images/m3-teacher.png)
 
+## Developer Guide
+
+* First, Install [Meteor](https://docs.meteor.com/install.html)
+* Second, Visit our [Repository](https://github.com/academic-flow/professor-trading-card) and create a copy
+* Next, change directories into the app directory by running
+  ```$ cd app```
+* Now, install the necessary libraries by running `$ meteor npm install`
+* Lastly, run `$ meteor npm run start`
+* After this step, the site should be up and running at http://localhost:3000/
+
 ## Community Feedback 
 
+* Dennyse B. 
+
+This site is great and I love the idea behind it. I don't get the chance to talk to my professors very often so this gives me the opportunity to get to know them in a different way.
+
+ * David B.
+
+This website has made trading card games more fun for me, a student. It is not only about the game but also creating relationships with other students and professors in my university. This makes a different experience from typical academic activities.
+
+ * Samuel P.
+
+I praise the group who made this website for their fresh idea! They used the liking of trading card games to build a space where students and faculty can connect with one another socially. This is beneficial for all parties involved.
+
+ * Daniel D.
+
+The website is not only a place for trading card games, it functions more like a hub for students to interact and I love the idea.
+
+ * Darius E. 
+
+I love the idea and it's so creative. I think it's great because of how popular the Pokemon trading card game was over the pandemic. It's a great idea for students to interact and know their professors better. 
+
+Overall, the website has been well received. People like its fresh idea of using trading card games as a way for students and professors to connect socially. They value getting to engage with faculty in a different setting, noticing how it adds depth to their university life beyond regular study activities. 
 
 ### Team
 
