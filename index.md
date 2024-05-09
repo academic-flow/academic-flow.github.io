@@ -144,6 +144,8 @@ Team members:
 
 
 ### Project links and Development History:
+<img src="https://github.com/academic-flow/professor-trading-card/workflows/professor-trading-card/badge.svg" alt="Build Status">
+
 * [Organization Page](https://github.com/academic-flow)
 * [M1](https://github.com/orgs/academic-flow/projects/1)
 * [M2](https://github.com/orgs/academic-flow/projects/2/views/1)
